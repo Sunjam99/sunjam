@@ -1,0 +1,171 @@
+{
+    "main": {
+        "name": "Simbarashe Alan Musanjeya",
+        "occupation": "Junior Developer",
+        "description": "Kojin Shinrigaku Kogi.",
+        "image": "017.jpg",
+        "bio": "A kid from Africa trying to make a dent in the world using technology",
+        "contactmessage": "Get in touch with me and let's talk.",
+        "email": "simzmusaz@gmail.com",
+        "phone": "+263-71-688-2765",
+        "address": {
+            "street": "9 Woodcutters Way, SummerGreens",
+            "city": "Cape Town,South Africa",
+            "state": "Africa",
+            "zip": "7441"
+        },
+        "website": "#",
+        "resumedownload": "",
+        "social": [{
+                "name": "facebook",
+                "url": "https://www.facebook.com/allansunjam.musanjeya",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "twitter",
+                "url": "https://twitter.com/sunjam_zw",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/simbarashe-allan-m-236ab2133/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/sunjam_zw/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "http://github.com/Sunjam99",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "I'm well acquanted with Python,CSS,JavaScript and React",
+        "education": [{
+                "school": "Kyle College",
+                "High School": "",
+                "graduated": "2013 - 2015",
+                "description": ""
+            },
+            {
+                "school": "Hillcrest College",
+                "High School": "",
+                "graduated": "2016 - 2018",
+                "description": ""
+            },
+            {
+                "school": "LifeChoices Coding Academy",
+                "High School": "",
+                "graduated": "2020 - 2021",
+                "description": ""
+            }
+        ],
+        "work": [{
+            "company": "Wronghand",
+            "title": "Junior Developer",
+            "years": "June 2020-January 2021",
+            "description": "Working on UX design portfolio for models who want to jumpstart their careers in modelling."
+        }],
+        "skills": [{
+                "name": "Git",
+                "level": "80%"
+            },
+            {
+                "name": "Python ",
+                "level": "90%"
+            },
+            {
+                "name": "ReactJs",
+                "level": "60%"
+            },
+            {
+                "name": "CSS",
+                "level": "70%"
+            },
+            {
+                "name": "HTML5",
+                "level": "80%"
+            },
+            {
+                "name": "MongoDB",
+                "level": "70%"
+            },
+            {
+                "name": "C++",
+                "level": "70%"
+            },
+            {
+                "name": "PHP",
+                "level": "60%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+                "title": "ModelsSAReloaded",
+                "category": "Modelling portfolio",
+                "image": "models.jpg",
+                "url": "https://www.instagram.com/models_reloadedza/"
+            },
+            {
+                "title": "Contact-Keeper",
+                "category": "Past Project",
+                "image": "https://camo.githubusercontent.com/9cf32540337501183d7e71c2cef531a25b2d3952/68747470733a2f2f692e696d6775722e636f6d2f736c6e477366392e676966",
+                "url": "https://github.com/Sunjam99/Contact-Keeper"
+            },
+            {
+                "title": "it-logger",
+                "category": "Past Project",
+                "image": "github.png",
+                "url": "https://github.com/Sunjam99/it-logger"
+            },
+            {
+                "title": "React Finder",
+                "category": "Past Project",
+                "image": "github.png",
+                "url": "https://github.com/Sunjam99/it-logger"
+            },
+            {
+                "title": "Lottery Python",
+                "category": "Past Project",
+                "image": "github.png",
+                "url": "https://github.com/Sunjam99/Lottery-package/raw/master/tk.exe"
+            },
+            {
+                "title": "Website for Geeks",
+                "category": "Past Project",
+                "image": "maxi.png",
+                "url": "https://maxfi.co.za"
+            },
+            {
+                "title": "Website for clothes",
+                "category": "Past Project",
+                "image": "thestash.png",
+                "url": "https://thestash.co.za"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [{
+                "text": "Simba is a strong and creative individual, has shown an interest in front end development",
+                "user": "Jason"
+            },
+            {
+                "text": "An intelligent person whose very creative and always thinking out the box. He gives ideas lots of thought and always determined to complete a task or to reach his goal",
+                "user": "Luqmaan"
+            },
+            {
+                "text": "Simbarashe is a critical thinker, an excellent problem-solver and concise individual. His passionate and his work is remarkable. It would be a great asset to have him to be part of your team",
+                "user": "Takudzwa"
+            },
+            {
+                "text": "Simba is a very charismatic,  energetic  and hardworking individual. He is very  enthusiastic and he works well with others and he always seems to light up the room with his personality.Simba is focused on achieving all his goals.There is never a dull moment with him.I believe Simba will be an asset to the company and he will definitely bring something different.",
+                "user": "Mischa"
+            }
+        ]
+    }
+}
