@@ -7,7 +7,7 @@
         "bio": "A kid from Africa trying to make a dent in the world using technology",
         "contactmessage": "Get in touch with me and let's talk.",
         "email": "simzmusaz@gmail.com",
-        "phone": "+263-71-688-2765",
+        "phone": "+263-773-550-684",
         "address": {
             "street": "9 Woodcutters Way, SummerGreens",
             "city": "Cape Town,South Africa",
@@ -70,6 +70,12 @@
             "years": "June 2020-January 2021",
             "description": "Working on UX design portfolio for models who want to jumpstart their careers in modelling."
         }],
+        "work":[{
+            "company": "Freelancer",
+            "title": "Full-stack developer",
+            "years": "January 2021 - present",
+            "description": "From marketing to talking with the clients and doing the project both front-end and back-end."
+        }],
         "skills": [{
                 "name": "Git",
                 "level": "80%"
@@ -114,7 +120,7 @@
             {
                 "title": "Contact-Keeper",
                 "category": "Past Project",
-                "image": "https://camo.githubusercontent.com/9cf32540337501183d7e71c2cef531a25b2d3952/68747470733a2f2f692e696d6775722e636f6d2f736c6e477366392e676966",
+                "image": "contactkeeper.gif",
                 "url": "https://github.com/Sunjam99/Contact-Keeper"
             },
             {
@@ -132,7 +138,7 @@
             {
                 "title": "Lottery Python",
                 "category": "Past Project",
-                "image": "github.png",
+                "image": "lottery.jpg",
                 "url": "https://github.com/Sunjam99/Lottery-package/raw/master/tk.exe"
             },
             {
