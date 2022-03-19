@@ -32,11 +32,11 @@ class About extends Component {
             h2 > Contact Details < /h2> <
             p className = "address" >
             <
-            span > 9 Woodcutters Way, Summergreens < br / >
+            span > 3 BellyGreens Summergreens < br / >
             Cape Town, 4444 <
             /span><br / >
             <
-            span > +263 773550684 < /span><br / >
+            span > +263 773 550 684 < /span><br / >
             <
             span > simzmusaz @gmail.com < /span> <
             /p> <

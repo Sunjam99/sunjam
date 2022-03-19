@@ -23,7 +23,7 @@ class Footer extends Component {
             <
             ul className = "copyright" >
             <
-            li > & copy; Copyright💪🏽 < /li> <
+            li > & copy; Copyright Tim Baker < /li> <
             li > Edited by < a title = "Simba"
             href = "/" > Simba < /a></li >
             <
