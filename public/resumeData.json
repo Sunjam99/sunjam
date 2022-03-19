@@ -3,7 +3,7 @@
         "name": "Simbarashe Alan Musanjeya",
         "occupation": "Junior Developer",
         "description": "Kojin Shinrigaku Kogi.",
-        "image": "017.jpg",
+        "image": "017.jpeg",
         "bio": "A kid from Africa trying to make a dent in the world using technology",
         "contactmessage": "Get in touch with me and let's talk.",
         "email": "simzmusaz@gmail.com",
@@ -70,7 +70,7 @@
             "years": "June 2020-January 2021",
             "description": "Working on UX design portfolio for models who want to jumpstart their careers in modelling."
         }],
-        "work":[{
+        "work": [{
             "company": "Freelancer",
             "title": "Full-stack developer",
             "years": "January 2021 - present",

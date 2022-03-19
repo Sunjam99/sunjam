@@ -1,34 +1,43 @@
 import React, { Component } from 'react';
 
 class Footer extends Component {
-  render() {
+    render() {
 
-    if(this.props.data){
-      var networks= this.props.data.social.map(function(network){
-        return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
-      })
+        if (this.props.data) {
+            var networks = this.props.data.social.map(function(network) {
+                return <li key = { network.name } > < a href = { network.url } > < i className = { network.className } > < /i></a > < /li>
+            })
+        }
+
+        return ( <
+            footer >
+
+            <
+            div className = "row" >
+            <
+            div className = "twelve columns" >
+            <
+            ul className = "social-links" > { networks } <
+            /ul>
+
+            <
+            ul className = "copyright" >
+            <
+            li > & copy; Copyright💪🏽 < /li> <
+            li > Edited by < a title = "Simba"
+            href = "/" > Simba < /a></li >
+            <
+            /ul>
+
+            <
+            /div> <
+            div id = "go-top" > < a className = "smoothscroll"
+            title = "Back to Top"
+            href = "#home" > < i className = "icon-up-open" > < /i></a > < /div> <
+            /div> <
+            /footer>
+        );
     }
-
-    return (
-      <footer>
-
-     <div className="row">
-        <div className="twelve columns">
-           <ul className="social-links">
-              {networks}
-           </ul>
-
-           <ul className="copyright">
-              <li>&copy; Copyright Tim Baker</li>
-              <li>Edited by <a title="Simba" href="/">Simba</a></li>
-           </ul>
-
-        </div>
-        <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open"></i></a></div>
-     </div>
-  </footer>
-    );
-  }
 }
 
 export default Footer;
